@@ -1,0 +1,52 @@
+Analyzing Quantitative Data
+
+ There are four main aspects to analyzing Quantitative data:
+  1. Measures of Center
+      There are three measures of center:
+      1. Mean
+       The mean is often called the average or the expected value in mathematics.
+       We calculate the mean by adding all of our values together, and dividing 
+       by the number of values in our dataset.
+
+      2. Median
+       - The median splits our data so that 50% of our values are lower and 50% 
+         are higher.
+       - In order to compute the median we MUST sort our values first.
+       - If we have an odd number of observations, the median is simply the 
+         number in the direct middle.   (1, 2, 3) median is 2
+       - If we have an even number of observations, the median is the average of 
+         the two values in the middle.  (1, 2, 3, 4) median is (2 + 3)/2 
+
+      3. Mode
+        - The mode is the most frequently observed value in our dataset.
+        - There might be multiple modes for a particular dataset, or no mode at 
+        all.
+
+          If we have the dataset:
+          1, 2, 2, 3, 4
+          The mode is 2 since it's the most frequent observed value.
+
+        - No Mode
+          If all observations in our dataset are observed with the same 
+          frequency, there is no mode.
+
+          If we have the dataset:
+          1, 1, 2, 2, 3, 3, 4, 4
+          There is no mode, because all observations occur the same number of 
+          times.
+       - Many Mode
+          If two (or more) numbers share the maximum value, then there is more 
+          than one mode. 
+          
+          If we have the dataset:
+          1, 2, 3, 3, 3, 4, 5, 6, 6, 6, 7, 8, 9
+          The mode are numbers 3 and 6 (Many modes).
+          
+
+
+
+  2. Measures of Spread
+  3. The Shape of the data.
+  4. Outliers
+
+  5, 8, 15, 7, 10, 22, 3, 1, 15
