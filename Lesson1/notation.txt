@@ -1,0 +1,114 @@
+Notations
+ Notation is a common language used to communicate mathematical ideas.
+
+Rows and Columns
+- Spreadsheets are a common way to hold data. 
+- A Column in a spreadsheet commonly holds a specific variable. 
+- A row is commonly called an instance or individual.
+- Random Variables
+
+Random Variable
+- A random variable is a placeholder for the possible values of some process. 
+- X, Y, or Z are common ways to represent a random variable.
+- n n pertains to the number of rows in our dataset
+
+Capital vs Lower case Letters
+ - Random variables are notated as capital letters. Example: X, Y
+ - The outcome of these random variables (particular values) are 
+   notated as lower case of the same letter, with a subscript that
+   signifies the specific value of the random variable we are 
+   considering. Example x = 5, y = 10
+                         1      1
+- x1, y2 is the notation for the first observed value of a random variable
+- the amount of time someone spends on our site is a random variable (we are 
+  not sure what the outcome will be for any particular visitor), and we would
+  notate this with X. 
+- Then when the first person visits the website, if they spend 5 minutes, we 
+  have now observed this outcome of our random variable. We would notate any 
+  outcome as a lowercase letter with a subscript associated with the order that 
+  we observed the outcome. x = 5
+                            1
+  Example 1: 
+   If 5 individuals visit our website, the first spends 10 minutes, the second 
+   spends 20 minutes, the third spends 45 mins, the fourth spends 12 minutes, 
+   and the fifth spends 8 minutes; we can notate this problem in the following 
+   way:
+
+     X is the amount of time an individual spends on our website.
+     x  = ​ 10, x = 20, x = 45, x = 12, x = 8
+      1         2       3       4       5 
+
+ Example 2:
+  What is the probability someone spends more than 20 minutes in our website?
+     In notation, we would write:
+      P(X > 20)?
+     - Here P stands for probability, while the parentheses encompass the 
+       statement for which we would like to find the probability. 
+     -  Since X represents the amount of time spent on the website, this 
+        notation represents the probability the amount of time on the website 
+        is greater than 20.  
+     - Studying the data from Example 1, only x is greater than 20
+                                               3 
+     P(X > 20) = x    1 out of 5     
+                  3  
+     P = (1/5) * 100 = 20% chance that an individual spends more than
+     20 minutes on our website.
+
+ Example 3
+  If we asked: What is the probability of an individual spending 20 or more 
+  minutes on our website?
+
+  P(X >= 20)    x and x which is 2 out of 5
+                 2     3
+  P = (2/5 *) 100 = 40$ 
+
+
+Aggregations 
+ - Aggregation is way to turn multiple numbers into fewer numbers. Usually just 
+ one number.
+ - Summation is a common aggregation. The notation used to sum our values is a 
+   greek symbol called sigma \SigmaΣ.
+ E Sigma   
+  Sigma symbolized Sum
+
+ - If we wanted to multiply all of our values together we would use a product 
+   sign II , capital Greek letter pi.  
+ - The way we aggregate continuous values is with something known as integration,
+   which uses the following symbol ∫ which is just a long s.
+ 
+
+Notation summary
+
+Notation	English	Example
+X	A random variable	Time spent on website
+x_1x 
+1
+​
+ 	First observed value of the random variable X	15 mins
+\sum\limits_{i=1}^nx_i 
+i=1
+∑
+n
+​
+ x 
+i
+​
+ 	Sum values beginning at the first observation and ending at the last	5 + 2 + ... + 3
+\frac{1}{n}\sum\limits_{i=1}^nx_i 
+n
+1
+​
+  
+i=1
+∑
+n
+​
+ x 
+i
+​
+ 	Sum values beginning at the first observation and ending at the last and divide by the number of observations (the mean)	(5 + 2 + 3)/3
+\bar{x} 
+
+
+¯ 
+x  Exactly the same as the above - the mean of our data.	(5 + 2 + 3)/3

@@ -18,7 +18,9 @@ Data Types
 
      - Discrete data only takes on countable values. The number of dogs we 
        interact with is an example of a discrete data type.
-      
+    
+    - Continuous data types are those that can take on decimal values, where discrete 
+      data types are those that are countable.
 
  Categorical Ordinal vs. Categorical Nominal
      We can divide categorical data further into two types: Ordinal and Nominal.
@@ -29,8 +31,7 @@ Data Types
      2. Categorical Nominal data do not have an order or ranking (like the breeds 
      of the dog).
 
-* Continuous data types are those that can take on decimal values, where discrete 
-  data types are those that are countable.
+
 
 
 Data Types summary	
