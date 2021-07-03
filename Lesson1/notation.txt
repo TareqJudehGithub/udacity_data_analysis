@@ -19,7 +19,7 @@ Capital vs Lower case Letters
    signifies the specific value of the random variable we are 
    considering. Example x = 5, y = 10
                          1      1
-- x1, y2 is the notation for the first observed value of a random variable
+- x1, y2 are the notation for the first observed value of a random variable.
 - the amount of time someone spends on our site is a random variable (we are 
   not sure what the outcome will be for any particular visitor), and we would
   notate this with X. 
@@ -51,7 +51,7 @@ Capital vs Lower case Letters
                                                3 
      P(X > 20) = x    1 out of 5     
                   3  
-     P = (1/5) * 100 = 20% chance that an individual spends more than
+     P = (1/5) = 20% chance that an individual spends more than
      20 minutes on our website.
 
  Example 3
@@ -60,15 +60,15 @@ Capital vs Lower case Letters
 
   P(X >= 20)    x and x which is 2 out of 5
                  2     3
-  P = (2/5 *) 100 = 40$ 
+  P = (2/5 *) = 40%
 
 
 Aggregations 
  - Aggregation is way to turn multiple numbers into fewer numbers. Usually just 
  one number.
  - Summation is a common aggregation. The notation used to sum our values is a 
-   greek symbol called sigma \SigmaΣ.
- E Sigma   
+   greek symbol called sigma \Sigma Σ.
+ Σ Sigma   
   Sigma symbolized Sum
 
  - If we wanted to multiply all of our values together we would use a product 
@@ -86,29 +86,26 @@ x_1x
 ​
  	First observed value of the random variable X	15 mins
 \sum\limits_{i=1}^nx_i 
-i=1
-∑
+
 n
-​
- x 
-i
+∑ xi
+i=1
 ​
  	Sum values beginning at the first observation and ending at the last	5 + 2 + ... + 3
 \frac{1}{n}\sum\limits_{i=1}^nx_i 
+
 n
-1
-​
-  
+∑ xi
 i=1
-∑
-n
 ​
- x 
-i
 ​
- 	Sum values beginning at the first observation and ending at the last and divide by the number of observations (the mean)	(5 + 2 + 3)/3
+ 	Mean
+   Sum values beginning at the first observation and ending at the last and 
+   divide by the number of observations (the mean)	(5 + 2 + 3)/3
 \bar{x} 
 
 
-¯ 
-x  Exactly the same as the above - the mean of our data.	(5 + 2 + 3)/3
+  n
+1/n  ∑ xi
+  i=1
+¯ Exactly the same as the above - the mean of our data.	(5 + 2 + 3)/3

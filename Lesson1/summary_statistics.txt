@@ -46,6 +46,7 @@ Analyzing Quantitative Data
 
 
   2. Measures of Spread
+      Refer to file measures_of_spread.txt
   3. The Shape of the data.
   4. Outliers
 
