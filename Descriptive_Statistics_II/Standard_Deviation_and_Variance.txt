@@ -1,0 +1,45 @@
+Standard Deviation and Variance
+
+     - We calculate the variance, by finding the average squared difference of 
+       each observation (value) from the mean. The units of the variance are the 
+       square of the original units of your data.
+     - Then, we calculate the SD from variance square root.
+     - SD will tell us on average, how much (how far) each point varies from the 
+       mean of the points.
+     - SD is defined as the average distance of each observation from the mean.
+     - SD is used to compare the spread of different groups, to determine which
+       is more spread out.
+     - High SD is associated with higher risk.
+     - All data comparison should be in the same unit.
+     - Variance has squared units of the original dataset.
+     - SD shares units with the original dataset, which makes it more useful
+       measurement of spread.
+
+
+     Example:
+          Dataset = 10, 12, 14, 16
+          
+          1. Find the mean:
+          10 + 12 + 14 + 16 = 52/4 = 13
+
+          2. Subtract each value from the mean, and square the result.
+          10 - 13 = -3 to the power of 2 = 9
+          12 - 13 = -1 to the power of 2 = 1
+          14 - 13 =  1 to the power of 2 = 1
+          16 - 13 =  3 to the power of 2 = 9
+
+          3. Calculate the Variance by dividing total of step 2 result by values
+          numbers.
+          Variance (9 + 1 + 1 + 9)/4 = 5
+
+          4. Finally, calculate the Standard Deviation.
+          The SD is the square root result of the variance.
+          square root of 8 = 2.83
+          
+
+
+
+
+
+
+

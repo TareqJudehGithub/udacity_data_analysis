@@ -1,0 +1,50 @@
+Measures of Spread
+
+Measures of Spread are used to provide us an idea of how spread out our data are 
+from one another. Common measures of spread include:
+
+Range
+Interquartile Range (IQR)
+Standard Deviation
+Variance
+
+Histograms
+
+Histograms are super useful to understanding the different aspects of 
+quantitative data. In the upcoming concepts, you will see histograms used all 
+the time to help you understand the four aspects we outlined earlier regarding 
+a quantitative variable:
+ center
+ spread
+ shape
+ outliers
+
+
+The 5 Number Summary
+ The 5 Number Summary is one of the most important ways to measures the spread
+ of our data.
+ Calculating the 5 Number Summary
+The five number summary consist of 5 values:
+
+1.   Minimum: The smallest number in the dataset.
+2.   Q : The value such that 25% of the data fall below.  
+      1
+​
+3.   Q : The value such that 50% of the data fall below (Also known as Median).
+      2
+
+4.   Q : The value such that 75% of the data fall below.
+      3
+​
+5.   Maximum: The largest value in the dataset.
+
+Range
+ The range is then calculated as the difference between the maximum and the 
+ minimum.
+
+Interquartile Range (IQR) 
+The interquartile range is calculated as the difference between Q and Q
+​                                                                 3      1 
+
+
+ 
