@@ -1,3 +1,5 @@
+Descriptive Statistics is a way to describe a collection of data.
+
 Standard Deviation and Variance
 
      - We calculate the variance, by finding the average squared difference of 

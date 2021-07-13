@@ -1,6 +1,7 @@
 Analyzing Quantitative Data
 
  There are four main aspects to analyzing Quantitative data:
+ 
   1. Measures of Center
       There are three measures of center:
       1. Mean
@@ -49,5 +50,3 @@ Analyzing Quantitative Data
       Refer to file measures_of_spread.txt
   3. The Shape of the data.
   4. Outliers
-
-  5, 8, 15, 7, 10, 22, 3, 1, 15

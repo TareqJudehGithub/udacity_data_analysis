@@ -1,0 +1,27 @@
+Outliers
+ Outliers are data points that fall far from the rest of the dataset.
+  
+ Common Techniques
+When outliers are present we should consider the following points.
+ - Noting they exist and the impact on summary statistics.
+ - If typo - remove or fix
+ - Understanding why they exist, and the impact on questions we are 
+   trying to answer about our data.
+ - Reporting the 5 number summary values is often a better indication 
+   than measures like the mean and standard deviation when we have outliers.
+ -  Be careful in reporting. Know how to ask the right questions.
+ 
+ Working with Outliers
+
+ When analyzing data, here are some guidelines:
+ 1. Plot your data.
+ 2. Determine how to handle outliers if found.
+ 3. We can learn a lot with the mean and the standard deviation in normally
+    distributed data.
+ 4. Reporting the 5 number summary values is often a better indication than 
+    measures like the mean and standard deviation when we have outliers, or 
+    when data is skewed.
+ 5. Be careful in reporting. Know how to ask the right questions.
+
+. Identifying outliers and the shape associated with the distribution of our 
+  data are easier when using a visual as opposed to using summary statistics.
