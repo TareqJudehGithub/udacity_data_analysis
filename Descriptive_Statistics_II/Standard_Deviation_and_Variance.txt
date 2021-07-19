@@ -17,7 +17,6 @@ Standard Deviation and Variance
      - SD shares units with the original dataset, which makes it more useful
        measurement of spread.
 
-
      Example:
           Dataset = 10, 12, 14, 16
           

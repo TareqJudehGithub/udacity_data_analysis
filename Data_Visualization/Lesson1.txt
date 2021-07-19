@@ -1,0 +1,62 @@
+Data Visualization
+
+
+- For quantitative data, if we are just looking at one column in your dataset, 
+  this is called Univariate analysis. Where the Uni (unit) stands for one.
+- Which plot should we use for Univariate?
+     
+     For Univariate quantitative data (both continuous and discrete), the 
+     most common plot to visualize the data are: 
+     1. Histogram. Histogram is the most common way to plot Univariate data.
+     2. We could also use Box-And-Whisker plot.
+     3. Stem-Leaf plot.
+     4. Normal Quantile plot.
+
+     For Univariate categorical data:
+     1. Bar Chart. Is the most common way to plot data. A bar chart is like a
+        histogram, but the bins are determined based on a set category and not
+        based on a range that the chart creator can change. Bar charts are the
+        favorite plot type for ordinal categorical data.
+     2. Pie Chart.
+     3. Pareto Chart. Pareto charts are essentially bar charts, where the bars
+        order are from the most frequent to the least frequent.
+     
+
+     Scatter plots
+          - Scatter plots are best used for comparing two quantitative variables
+            to one another (i.e price and sales, heights and weights).
+          - Visualizes the strength and direction of the relationship of the two 
+            variables.
+          - Strong-Positive relationship. As variable Y increases, the other X 
+          variable also increases.
+          - Strong-Negative relationship. As variable Y increases, the other X 
+            variable decreases.
+          - As the points become more scattered from one another, this weakens 
+            the relationship.
+          - Strength are considered weak, moderate, or strong.
+          - direction is considered positive or negative.
+          - Correlation Coefficient. a numeric value to capture strength and 
+            direction.
+          - A correlation coefficient tells us the strength and direction of a 
+            linear relationship.
+          - The correlation coefficient is commonly donated by r.
+          - The correlation coefficient is always between -1 and 1.
+          - Closer the correlation coefficient to 1 and -1, the stronger the 
+            relationship is.
+          - The negative tells us that there is a negative relationship.
+          - The positive tells us that there is a positive relationship.
+
+
+
+
+
+            
+
+          
+
+
+
+
+
+
+

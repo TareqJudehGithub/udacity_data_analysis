@@ -1,0 +1,21 @@
+Inferential Statistics
+ Drawing Conclusions about a population based on data collected from a sample
+ of individuals from that population.
+ 
+ - Descriptive Statistics is about describing our collected data
+ - Inferential Statistics is about using our collected data to draw Conclusions
+   to a larger population.
+
+ Let's say we wanted to analyse how many students (100,000 students) drink 
+ coffee. We sent email about that study, but only 5000 students replied. We
+ found out that only 73% of these students drink coffee.
+ 
+   Population - our entire group of interest.          (100,000 students)       
+   Sample - subset of the population                   (5000 students)     
+   Statistic numeric summary about a sample            (73%)
+   Parameter - numeric summary about a population      (Frequently we do not 
+                                                       know this value, so we
+                                                       must try and estimate)  
+
+
+* Inference meaning: conclusion reached on the basis of evidence and reasoning.
