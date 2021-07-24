@@ -23,6 +23,11 @@ Data Visualization
      
 
      Scatter plots
+      The scatter diagram graphs pairs of numerical data, with one variable on 
+      each axis, to look for a relationship between them. If the variables are 
+      correlated, the points will fall along a line or curve. The better the 
+      correlation, the tighter the points will hug the line.
+      
           - Scatter plots are best used for comparing two quantitative variables
             to one another (i.e price and sales, heights and weights).
           - Visualizes the strength and direction of the relationship of the two 
@@ -45,6 +50,20 @@ Data Visualization
             relationship is.
           - The negative tells us that there is a negative relationship.
           - The positive tells us that there is a positive relationship.
+
+        Correlation Coefficient
+         - Correlation coefficients provide a measure of the strength and 
+           direction of linear relationship.
+         - We can tell the direction based on whether the correlation is 
+           positive or negative.
+         - A rule of thumb for judging the strength:
+           - Strong   0.7 >= r <= 10
+           - Moderate 0.3 >= r <= 0.7
+           - Weak     0.0 >= 3 <= 0.3
+
+        Calculation of the Correlation Coefficient:
+         Check your notebook.
+
 
 
 
