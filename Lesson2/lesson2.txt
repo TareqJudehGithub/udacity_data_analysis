@@ -1,0 +1,68 @@
+Design
+
+
+There are two main reasons for creating visuals using data:
+
+1. Exploratory Analysis
+     - Exploratory analysis is done when you are searching for insights.
+     - Exploratory Analysis is done behind the scene.
+     - These visualizations don't need to be perfect.
+     - You are using plots to find insights, but they don't need to be 
+       aesthetically appealing.
+
+2. Explanatory Analysis
+     - Explanatory analysis is done when you are providing your results 
+       for others. 
+     - These visualizations need to provide you the emphasis necessary to 
+       convey your message. 
+     - Explanatory analysis should be accurate, insightful, and visually 
+       appealing.
+
+The five steps of the data analysis process:
+
+     - Extract - Obtain the data from a spreadsheet, SQL, the web, etc.
+
+     - Clean - Here we could use exploratory visuals.
+
+     - Explore - Here we use exploratory visuals.
+
+     - Analyze - Here we might use either exploratory or explanatory visuals.
+
+     - Share - Here is where explanatory visuals live.
+
+Visuals can be bad if they:
+
+     - Don't convey the message.
+     - Are misleading.
+
+Chart junk 
+     - Chart junk refers to all visual elements in charts and graphs that are 
+       not necessary to comprehend the information represented on the graph or 
+       that distract the viewer from this information.
+     - Examples of chart junk:
+          - Heavy or dark grid lines
+          - Unnecessary text
+          - Pictures surrounding or within graph
+          - Shading or 3D components
+          - Ornamented chart or axes
+
+Data-ink ratio
+     - Data-ink ration was defined in 1983 by Edward Tufte.
+     - The ratio of amount of ink used to describe the data, to the total 
+       amount of ink in the visual (describing everything else).
+     - The higher the data-ink ratio is better.
+     - Limiting chart junk increases the data-ink ratio.
+     
+
+Design Integrity 
+ - It is key that when you build plots you maintain integrity for the 
+   underlying data.
+ - Lie Factor
+     - Lie factor depicts the degree to which a visualization distorts or 
+       misrepresents the data values being plotted.
+     - Lie factor calculation formula:
+       lie factor = (visual/visual start) / (data/data start)
+​
+ 
+​
+ Important visual components like position, size, color, and length.
